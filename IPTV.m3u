@@ -1505,10 +1505,10 @@ http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 壹壹玖玖
 http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地母子园①
-http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地母子园②
-http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地成年园①
+http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地成年园②
+http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地幼年园①
 http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地幼年园②
@@ -1517,10 +1517,10 @@ http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地幼儿园②
 http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地成年园①
-http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地成年园②
-http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地母子园①
+http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地母子园②
+http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地别墅①
 http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="hhttps://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda.jpg" group-title="熊猫频道", 基地别墅②
