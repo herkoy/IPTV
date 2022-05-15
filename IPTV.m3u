@@ -339,7 +339,7 @@ http://203.162.235.41:16901
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="905" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="日韩频道",フジテレビ
 http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="906" tvg-name="" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日本频道",日本テレビ
+#EXTINF:-1 tvg-id="906" tvg-name="" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩频道",日本テレビ
 http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="907" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/300px-TV_Asahi_Logo.svg.png" group-title="日韩频道",テレビ朝日
 http://203.162.235.41:16906
@@ -369,7 +369,7 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:-1 tvg-id="921" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/500px-Gtv_logo_ja_01.svg.png" group-title="日韩频道",群馬テレビ
 https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="922" tvg-name="" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/18.jpg" group-title="日韩频道",ファミリー劇場
+#EXTINF:-1 tvg-id="922" tvg-name="" tvg-logo="https://www.fami-geki.com/common/img/header_logo.png" group-title="日韩频道",ファミリー劇場
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="923" tvg-name="" tvg-logo="https://korean-dorama.com/wp-content/uploads/2018/06/eiseigekijyo.jpg" group-title="日韩频道",衛星劇場
 http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
