@@ -37,17 +37,17 @@ http://112.25.47.24/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 http://112.25.47.24/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv4k.png" group-title="央视频道",CCTV4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN.png" tvg-logo="h" group-title="央视频道",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",CGTN 阿语频道
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_arabic.png" tvg-logo="h" group-title="央视频道",CGTN 阿语频道
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",CGTN 俄语频道
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_Russian.png" tvg-logo="h" group-title="央视频道",CGTN 俄语频道
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",CGTN 西语频道
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_Espanol.png" tvg-logo="h" group-title="央视频道",CGTN 西语频道
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",CGTN 法语频道
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_français.png" tvg-logo="h" group-title="央视频道",CGTN 法语频道
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="h" group-title="央视频道",group-title="央视频道",CGTN 纪
+#EXTINF:-1 tvg-id="20" tvg-name="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN.png" tvg-logo="h" group-title="央视频道",CGTN 纪录频道
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
