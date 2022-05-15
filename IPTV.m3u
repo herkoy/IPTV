@@ -45,7 +45,7 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_Espanol.png" group-title="央视频道",CGTN 西语频道
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_français.png" group-title="央视频道",CGTN 法语频道
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_france.png" group-title="央视频道",CGTN 法语频道
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/CGTN_Documentary.png" group-title="央视频道",CGTN 纪录频道
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -142,17 +142,17 @@ http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctvgefwq.png" group-title="体育频道",高尔夫网球
 http://117.148.179.137/PLTV/88888888/224/3221231619/index.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/wxty.png" group-title="体育频道",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="体育频道",天元围棋  
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tywq.jpg" group-title="体育频道",天元围棋  
 http://211.94.219.178:18080/PLTV/68/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="体育频道",劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/jbty.jpg" group-title="体育频道",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",咪咕体育
 http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",NEWTV超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/newtvcjty" group-title="体育频道",NEWTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",NEWTV精品体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="newtvjpty" group-title="体育频道",NEWTV精品体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育频道",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
