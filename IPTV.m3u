@@ -291,11 +291,11 @@ http://seb.sason.top/ptv/ftv.php?id=zy
 http://seb.sason.top/ptv/ftv.php?id=ly
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETNews.png" group-title="台湾频道",三立新闻台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台湾频道",三立新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETInews.png" group-title="台湾频道",三立财经新闻台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" group-title="台湾频道",三立INEW
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETTaiwan.png" group-title="台湾频道",三立台湾台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e0/SET_Taiwan_Channel_logo.png" group-title="台湾频道",三立台湾台
 https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/hyxwt.png" group-title="台湾频道",寰宇新闻台
