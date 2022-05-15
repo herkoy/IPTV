@@ -266,68 +266,68 @@ http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视
 http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twts.png" group-title="台湾频道",台视
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twzs.png" group-title="台湾频道",中视
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twhs.png" group-title="台湾频道",华视
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/hyxwt.png" group-title="台湾频道",寰宇新闻台
- https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/msxw.png" group-title="台湾频道",民视新闻台
 
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-taiwan.png" group-title="台湾频道",民视台湾台
+ http://seb.sason.top/ptv/ftv.php?id=tw
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视旅游台
+ http://seb.sason.top/ptv/ftv.php?id=ly
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-zongyi.png" group-title="台湾频道",民视综艺台
+ http://seb.sason.top/ptv/ftv.php?id=zy
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-1.png" group-title="台湾频道",民视第一台
+ http://seb.sason.top/ptv/ftv.php?id=dy
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视影剧台
+ http://seb.sason.top/ptv/ftv.php?id=yj
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twts.png" group-title="台湾频道",台视
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tsxw.png" group-title="台湾频道",台视新闻台
+ http://seb.sason.top/sc/tsxw_fhd.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twzs.png" group-title="台湾频道",中视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/zsxw.png" group-title="台湾频道",中视新闻台
+ http://seb.sason.top/sc/zsxw_fhd.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twhs.png" group-title="台湾频道",华视
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETNews.png" group-title="台湾频道",三立新闻台
  http://seb.sason.top/sc/sllive_fhd.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETInews.png" group-title="台湾频道",三立财经新闻台
  http://seb.sason.top/sc/slinews_fhd.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/SETTaiwan.png" group-title="台湾频道",三立台湾台
  https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/hyxwt.png" group-title="台湾频道",寰宇新闻台
+ https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ztxw.png" group-title="台湾频道",中天新闻台
  http://seb.sason.top/sc/ztxw_fhd.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/dsxw.png" group-title="台湾频道",东森新闻台
  http://seb.sason.top/sc/dsxw_fhd.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/zsxw.png" group-title="台湾频道",中视新闻台
- http://seb.sason.top/sc/zsxw_fhd.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tsxw.png" group-title="台湾频道",台视新闻台
- http://seb.sason.top/sc/tsxw_fhd.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-taiwan.png" group-title="台湾频道",民视台湾台
- http://seb.sason.top/ptv/ftv.php?id=tw
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视旅游台
- http://seb.sason.top/ptv/ftv.php?id=ly
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-1.png" group-title="台湾频道",民视第一台
- http://seb.sason.top/ptv/ftv.php?id=dy
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ftv-zongyi.png" group-title="台湾频道",民视综艺台
- http://seb.sason.top/ptv/ftv.php?id=zy
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/twms.png" group-title="台湾频道",民视影剧台
- http://seb.sason.top/ptv/ftv.php?id=yj
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/dscjxw.png" group-title="台湾频道",东森财经新闻台
  http://seb.sason.top/sc/dscjxw_fhd.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ydsxw.png" group-title="台湾频道",壹电视新闻台
- http://stream.nexttv.com.tw/n001/hd/live.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/TVBS_news.png" group-title="台湾频道",TVBS新闻台
  rtmp://59.124.75.136/sat/tv551
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/TVBShappy.png" group-title="台湾频道",TVBS欢乐台
  rtmp://59.124.75.136/sat/tv421
-
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/MOMOkids.png" group-title="台湾频道",MoMo综合台
- rtmp://59.124.75.136/sat/tv761
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/weilairb.png" group-title="台湾频道",纬来日本台
  rtmp://59.124.75.136/sat/tv771
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/weilaity.png" group-title="台湾频道",纬来体育台
+ rtmp://59.124.75.136/sat/tv721
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/GoodTV.png" group-title="台湾频道",GoodTV
+ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/GoodTV2.png" group-title="台湾频道",GoodTV2
+ http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ydsxw.png" group-title="台湾频道",壹电视新闻台
+ http://stream.nexttv.com.tw/n001/hd/live.m3u8
+ #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/MOMOkids.png" group-title="台湾频道",MoMo综合台
+ rtmp://59.124.75.136/sat/tv761
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/yuanzhumin.png" group-title="台湾频道",原住民频道
  http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/daai.png" group-title="台湾频道",大爱一台
  https://pulltv1.wanfudaluye.com/live/tv1.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/DaliTV.png" group-title="台湾频道",大立电视台
  http://www.dalitv.com.tw:4568/live/dali/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/GoodTV.png" group-title="台湾频道",GoodTV
- http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/GoodTV2.png" group-title="台湾频道",GoodTV2
- http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/weilaity.png" group-title="台湾频道",纬来体育台
- rtmp://59.124.75.136/sat/tv721
+
+
+
 
 
 
