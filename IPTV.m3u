@@ -333,70 +333,54 @@ http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
 
 
 
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/NHKWorld.png" group-title="日韩频道",NHKWorld
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/NHKWorld.png" group-title="日韩频道",NHKWorld
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Animax Japan
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Animax Japan
-http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Animax Japan
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",群马テレビ
-https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",ウェザーニュース
-https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Tokyo MX 1
-https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Tokyo MX 2
-https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",MX Live
-https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Weather News
-https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",WeatherNews
-https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/NHK.png" group-title="日韩频道",NHK
+#EXTINF:-1 tvg-id="903" tvg-name="" tvg-logo="https://img.discogs.com/A63jK_qkTXN-WDU6b4TumBpogDI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/L-1390841-1513989715-5028.png.jpg" group-title="日韩频道",NHK Eテレ
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",NHK-综合
+#EXTINF:-1 tvg-id="904" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/NHK_General_TV_logo.svg/800px-NHK_General_TV_logo.svg.png" group-title="日韩频道",NHK総合
 http://203.162.235.41:16903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Fuji TV
+#EXTINF:-1 tvg-id="905" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="日韩频道",フジテレビ
 http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Nippon TV
+#EXTINF:-1 tvg-id="906" tvg-name="" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日本频道",日本テレビ
 http://203.162.235.41:16905
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",TV Asahi
+#EXTINF:-1 tvg-id="907" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/300px-TV_Asahi_Logo.svg.png" group-title="日韩频道",テレビ朝日
 http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",TBS
+#EXTINF:-1 tvg-id="908" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2880px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="日韩频道",TBSテレビ
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",NHK BSP
+#EXTINF:-1 tvg-id="909" tvg-name="" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日韩频道",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="910" tvg-name="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs101.png" group-title="日韩频道",NHK BS1
+http://203.162.235.41:16909
+#EXTINF:-1 tvg-id="911" tvg-name="" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png" group-title="日韩频道",NHK BSプレミアム
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",BS Fuji
+#EXTINF:-1 tvg-id="912" tvg-name="" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" group-title="日韩频道",BSフジ
 http://203.162.235.41:16911
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",BS Nippon TV
+#EXTINF:-1 tvg-id="913" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/400px-BS4_logo.svg.png" group-title="日韩频道",BS日テレ
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",BS TBS
+#EXTINF:-1 tvg-id="914" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png" group-title="日韩频道",BS-TBS
 http://203.162.235.41:16913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",BS Asahi
+#EXTINF:-1 tvg-id="915" tvg-name="" tvg-logo="https://yt3.ggpht.com/-FkWAXqmEgwA/AAAAAAAAAAI/AAAAAAAAAAA/JiEyTIJj6qg/s900-c-k-no/photo.jpg" group-title="日韩频道",BS朝日
 http://203.162.235.41:16914
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",BS Tokyo
+#EXTINF:-1 tvg-id="916" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/BS_TV_Tokyo_logo.png" group-title="日韩频道",BSテレビ東京
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",WOWOW Prime
-http://203.162.235.41:16916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",AT-X
-https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",QVC Japan
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",日本购物2
-http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",日本购物3
-http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",日本购物4
-http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 tvg-id="918" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/600px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日韩频道",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="919" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/600px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日韩频道",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="920" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/600px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日韩频道",MX Live
+http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="921" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/500px-Gtv_logo_ja_01.svg.png" group-title="日韩频道",群馬テレビ
+https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="922" tvg-name="" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/18.jpg" group-title="日韩频道",ファミリー劇場
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="923" tvg-name="" tvg-logo="https://korean-dorama.com/wp-content/uploads/2018/06/eiseigekijyo.jpg" group-title="日韩频道",衛星劇場
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="924" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1200px-Weathernews_logo.svg.png" group-title="日韩频道",ウェザーニュース
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="925" tvg-name="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-548-400x400.png" group-title="日韩频道",ジャパネットチャンネルDX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+#EXTINF:-1 tvg-id="926" tvg-name="" tvg-logo="https://www.wowow.co.jp/service/fg/img/ch_cinema_logo.png" group-title="日韩频道",WOWOWシネマ
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="927" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="日韩频道",QVCジャパン
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",KBC 광주방송(SBS 光州)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",국악방송
@@ -425,7 +409,12 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/FoxNews.us.png" group-title="欧美频道",FOX News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/CNN.us.png" group-title="欧美频道",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/gr/BBCWorldNews.gr.png" group-title="欧美频道",BBC World News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ipanda2.jpg" group-title="熊猫频道", 成都高清
