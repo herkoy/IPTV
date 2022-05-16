@@ -400,13 +400,13 @@ https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",KCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/File:KCTV_5_2020_Logo.svg" group-title="日韩频道",KCTV5
 http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ArirangTV.png" group-title="日韩频道",ArirangTV
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="https://en.wikipedia.org/wiki/File:Arirang.svg" group-title="日韩频道",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",MBC韩剧频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Munhwa_Broadcasting_Company.svg" group-title="日韩频道",MBC 韩剧频道
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",KBS 国际频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://zh.m.wikipedia.org/zh-hans/File:KBS_World.svg" group-title="日韩频道",KBS 国际频道
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 
 
