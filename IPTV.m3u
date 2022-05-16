@@ -398,10 +398,6 @@ https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
 https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://en.wikipedia.org/wiki/File:KCTV_5_2020_Logo.svg" group-title="日韩频道",KCTV5
-http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="https://en.wikipedia.org/wiki/File:Arirang.svg" group-title="日韩频道",ArirangTV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Munhwa_Broadcasting_Company.svg" group-title="日韩频道",MBC 韩剧频道
