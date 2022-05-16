@@ -386,9 +386,9 @@ http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.igbf.kr/gugak_web/thd_img/main21/logo_kmusic.png" group-title="日韩频道",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="https://www.mtn.co.kr/images/main-logo.png" tvg-logo="" group-title="日韩频道",MTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mtn.co.kr/images/main-logo.png" group-title="日韩频道",MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="日韩频道",NBS Korea 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.coolstreaming.us/img/ch/image74007275887.jpg" group-title="日韩频道",NBS Korea 
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg" group-title="日韩频道",TJB 대전방송
 http://1.245.74.5:1935/live/tv/.m3u8
