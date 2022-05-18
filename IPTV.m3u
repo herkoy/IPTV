@@ -152,8 +152,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/dbss.png" group-title="体育频道",哒啵赛事
 http://39.135.55.105:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tyss.png" group-title="体育频道",体育赛事
-http://39.134.65.183/PLTV/88888888/224/3221225706/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="体育频道",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 
