@@ -144,20 +144,19 @@ http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 http://117.148.179.137/PLTV/88888888/224/3221231619/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/wxty.png" group-title="体育频道",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tywq.jpg" group-title="体育频道",天元围棋  
-http://211.94.219.178:18080/PLTV/68/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/jbty.jpg" group-title="体育频道",劲爆体育
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/jbty.png" group-title="体育频道",劲爆体育
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/newtvcjty.png" group-title="体育频道",NEWTV超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/newtvcjty.png" group-title="体育频道",NEWTV精品体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/dbss.png" group-title="体育频道",哒啵赛事
+http://39.135.55.105:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tyss.png" group-title="体育频道",体育赛事
+http://39.134.65.183/PLTV/88888888/224/3221225706/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.redbull.com/images/w_440/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="体育频道",Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/b/b4/TurkmenistanSport.jpg/1024px-TurkmenistanSport.jpg" group-title="体育频道",Turkmen Спорт HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/3/38/NTV-Plus_Sport-2.jpg?20110627135128" group-title="体育频道",НТВ+ Спорт
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
 
 
 
