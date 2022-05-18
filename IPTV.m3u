@@ -165,7 +165,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctvdyjc.png" group-title="综合频道",第一剧场
 http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctvfypd.png" group-title="综合频道",风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="综合频道",风云剧场
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctvhjjc.png" group-title="综合频道",怀旧剧场
 http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
