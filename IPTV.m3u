@@ -10,7 +10,7 @@ http://117.148.179.160/TVOD/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv5.png" group-title="央视频道",CCTV5
 http://125.210.152.19:9090/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv5+.png" group-title="央视频道",CCTV5+
-http://112.25.47.24/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=JS_CMCC_CP
+http://hiradio.win/aishang.php?id=cctv5p
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv6.png" group-title="央视频道",CCTV6
 http://117.148.179.153/TVOD/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv7.png" group-title="央视频道",CCTV7
