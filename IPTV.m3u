@@ -131,9 +131,9 @@ http://111.20.33.93/TVOD/88888893/224/3221226220/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv5.png" group-title="体育频道",CCTV5
-http://112.25.47.24/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
+http://125.210.152.19:9090/live/hzgq-cctv5gq-h264.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv5+.png" group-title="体育频道",CCTV5+
-http://112.25.47.24/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8?p=GITV&area=JS_CMCC_CP
+http://hiradio.win/aishang.php?id=cctv5p
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctv16.png" group-title="体育频道",CCTV16
 http://112.25.47.24/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cctvystq.png" group-title="体育频道",央视台球
