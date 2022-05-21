@@ -201,40 +201,40 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbfc.png" group-title="香港频道",翡翠台
 http://radius.8866.org:880/hls/80/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbj2.png" group-title="香港频道",J2
- https://vip:vip930@vip.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbxw.png" group-title="香港频道",无线新闻
-http://radius.8866.org:880/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbj2.png" group-title="香港频道",J2
+https://cdn.hklive.tv/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbmz.png" group-title="香港频道",明珠台
 http://radius.8866.org:880/hls/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbxw.png" group-title="香港频道",无线新闻
+http://radius.8866.org:880/hls/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tvbwxcj.png" group-title="香港频道",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/Cable_News.png" group-title="香港频道",有线新闻台
- https://api.leonardpark.dev/live/icable/109
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cable_Finance.png" group-title="香港频道",有线财经资讯台
- https://api.leonardpark.dev/live/icable/108
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cable_Live_News.png" group-title="香港频道",有线直播新闻台
- https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/Cable_News.png" group-title="香港频道",有线新闻台
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cable_Finance.png" group-title="香港频道",有线财经资讯台
+http://livetv.dnsfor.me:80/channel.6.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/cable_Live_News.png" group-title="香港频道",有线直播新闻台
+http://livetv.dnsfor.me:80/channel.7.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowxwt.png" group-title="香港频道",NOW新闻台
 http://51.222.193.142:10011/9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowzbt.png" group-title="香港频道",NOW直播台
 http://51.222.193.142:10011/8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowsportsprime.png" group-title="香港频道",NOW SPORTS PRIME
  http://livetv.dnsfor.me/channel.12.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xgkds.png" group-title="香港频道",香港开电视
- https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xgkds.png" group-title="香港频道",香港开电视
+https://cdn.hklive.tv/hls/77/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/viutv.png" group-title="香港频道",viutv
 http://radius.8866.org:880/hls/86/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/viutv.png" group-title="香港频道",viutvsix
- https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/viutv.png" group-title="香港频道",viutv six
+https://cdn.hklive.tv/hls/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/rthk31.png" group-title="香港频道",RTHK31
 http://radius.8866.org:880/hls/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/rthk32.png" group-title="香港频道",RTHK32
 http://radius.8866.org:880/hls/90/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/rthk33.png" group-title="香港频道",RTHK33
 http://radius.8866.org:880/hls/91/index.m3u8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xggjcjt.png" group-title="香港频道",香港国际财经台
- http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w722142972.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xggjcjt.png" group-title="香港频道",香港国际财经台
+https://cdn.hklive.tv/hls/76/index.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xgdt.png" group-title="香港频道",香港电台视像新闻直播
  https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
  #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/c+.png" group-title="香港频道",香港C+
