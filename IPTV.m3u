@@ -219,8 +219,8 @@ http://livetv.dnsfor.me:80/channel.7.m3u8
 http://51.222.193.142:10011/9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowzbt.png" group-title="香港频道",NOW直播台
 http://51.222.193.142:10011/8
- #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowsportsprime.png" group-title="香港频道",NOW SPORTS PRIME
- http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/nowsportsprime.png" group-title="香港频道",NOW体育台
+https://dm1133.kglink.xyz/live/09
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/xgkds.png" group-title="香港频道",香港开电视
 https://cdn.hklive.tv/hls/77/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/viutv.png" group-title="香港频道",viutv
@@ -249,12 +249,12 @@ http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/aszy.png" group-title="澳门频道",澳門綜藝
 http://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ammacau.png" group-title="澳门频道",澳門Macau
-http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/aspw.png" group-title="澳门频道",澳門葡文
 http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/asam.png" group-title="澳门频道",澳視澳門
 http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/ammacau.png" group-title="澳门频道",澳門Macau
+http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/tsxw.png" group-title="台湾频道",台视HD
